@@ -1,8 +1,0 @@
-name = "calendar-proxy"
-main = "worker.js"
-compatibility_date = "2025-10-15"
-
-# Variables are set in Cloudflare dashboard (Workers → Settings → Variables)
-# [vars]
-# APPS_SCRIPT_URL = "<exec_url>"
-# SHARED_SECRET   = "<shared_secret>"

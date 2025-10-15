@@ -1,0 +1,9 @@
+python-dotenv
+requests
+fastapi
+uvicorn
+pydantic
+pyyaml
+feedparser
+beautifulsoup4
+markdown

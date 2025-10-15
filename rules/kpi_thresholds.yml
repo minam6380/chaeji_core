@@ -1,0 +1,5 @@
+latency_sla: 600
+min_citations: 3
+quality_score_min: 4.5
+error_autofix_rate_min: 0.9
+outputs_per_day_min: 15
