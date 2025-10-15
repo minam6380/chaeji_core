@@ -1,4 +1,0 @@
-min_daily_outputs: 15
-min_auto_recovery_rate: 0.9
-missing_policy_allowed: 0
-min_quality_score: 4.5
