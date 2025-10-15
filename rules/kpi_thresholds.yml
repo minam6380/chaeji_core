@@ -1,0 +1,4 @@
+thresholds:
+  outputs_per_day: 15
+  error_autofix_rate: 0.9
+  writing_quality: 4.5

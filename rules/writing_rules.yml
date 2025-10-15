@@ -1,0 +1,12 @@
+tone: "차분한 실무자 어투, 공적 문장"
+must:
+  - "결론 먼저"
+  - "실무 적용 단계 제시"
+avoid:
+  - "~할 수 있습니다"
+  - "아카이브, 레버리지, 시너지, 패러다임"
+length:
+  default_min_chars: 2500
+  default_max_chars: 4000
+structure:
+  order: ["결론","핵심 근거","적용 절차","주의점"]
