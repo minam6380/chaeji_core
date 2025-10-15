@@ -1,9 +1,0 @@
-sources:
-  - name: "대한민국 관보(예시)"
-    type: rss
-    url: "https://www.mss.go.kr/rss/notice.jsp"
-    priority: 5
-  - name: "중기부 보도자료(예시)"
-    type: rss
-    url: "https://www.mss.go.kr/rss/brd.jsp"
-    priority: 4
